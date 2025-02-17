@@ -3,7 +3,6 @@
 > 新版本代码已经正式合入到主干分支，欢迎使用。
 > 整体采用 `SpringBoot + Vue` 技术架构实现。
 
-
 ---
 
 V4.2.1版本正式发布，更新内容： [点击查看](https://mp.weixin.qq.com/s/w-hL-pEbB8FbiAAvHCvDQg)
